@@ -10,6 +10,7 @@ permalink: pretty
 
 gems:
   - jekyll-redirect-from
+  - jekyll-sitemap
 
 URL: "https://rancher.com"
 baseurl: "/docs"
